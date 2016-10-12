@@ -62,7 +62,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" id="logo" alt="logo" ></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" id="logo" alt="logo" ></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -88,113 +88,424 @@
         
 
             <ul class="portfolio-filter text-center">
-                <li><a class="btn btn-default active" href="#" data-filter="*">All Works</a></li>
-                <li><a class="btn btn-default" href="#" data-filter=".high-rise">High-rise</a></li>
-                <li><a class="btn btn-default" href="#" data-filter=".malaysia">Malaysia</a></li>
-                <li><a class="btn btn-default" href="#" data-filter=".overseas">Overseas</a></li>
+                <li><a class="btn btn-default active" href="#" data-filter="*">All Projects</a></li>
+                <li><a class="btn btn-default" href="#" data-filter=".high">High-rise</a></li>
+                <li><a class="btn btn-default" href="#" data-filter=".final">Final Cleaning</a></li>
+                <li><a class="btn btn-default" href="#" data-filter=".over">Overseas</a></li>
+                <li><a class="btn btn-default" href="#" data-filter=".main">Maintenance</a></li>
             </ul><!--/#portfolio-filter-->
 
             <div class="row">
                 <div class="portfolio-items">
-                    <div class="portfolio-item apps col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>Twhere is this?</p>
+                              <h3><a href="#">Aloft Hotel</a> </h3>
                                     <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>
                     </div><!--/.portfolio-item-->
 
-                    <div class="portfolio-item joomla high-rise col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item  high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>where is this?</p>
+                                       <h3><a href="#">Sunway Nexis</a></h3>
                                     <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>          
                     </div><!--/.portfolio-item-->
 
-                    <div class="portfolio-item high-rise overseas col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>Where is this?</p>
+                                  <h3><a href="#">Seri Ampang Hilir</a></h3>
                                     <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>        
                     </div><!--/.portfolio-item-->
 
-                    <div class="portfolio-item joomla overseas apps col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>Where is this?</p>
+                                   <h3><a href="#">Evolve</a></h3>
                                     <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>           
                     </div><!--/.portfolio-item-->
           
-                    <div class="portfolio-item joomla malaysia high-rise col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>Twhere is this?</p>
+                                  <h3><a href="#">Evolve</a></h3>
                                     <a class="preview" href="images/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>      
                     </div><!--/.portfolio-item-->
 
-                    <div class="portfolio-item overseas malaysia apps col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item6.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>Twhere is this?</p>
+                                     <h3><a href="#">Velda Residence</a></h3>
                                     <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>         
                     </div><!--/.portfolio-item-->
 
-                    <div class="portfolio-item overseas malaysia col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item7.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>Twhere is this?</p>
+                                     <h3><a href="#">Velda Residence</a></h3>
                                     <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>          
                     </div><!--/.portfolio-item-->
 
-                    <div class="portfolio-item overseas malaysia high-rise col-xs-12 col-sm-4 col-md-3">
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="images/portfolio/recent/item8.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">where is this?</a></h3>
-                                    <p>Twhere is this?</p>
+                                     <h3><a href="#">Glomac TTDI</a></h3>
                                     <a class="preview" href="images/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/camelia-UOA.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Camelia UOA</a></h3>
+                                    <a class="preview" href="images/portfolio/full/camelia-UOA.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                    <div class="portfolio-item main final col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/carpet and glue removal, rekaciptaF.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Rekacipta</a></h3>
+                                    <a class="preview" href="images/portfolio/full/carpet and glue removal, rekaciptaFm.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                    <div class="portfolio-item high main col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/federal-hotelH.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Federal Hotel</a></h3>
+                                    <a class="preview" href="images/portfolio/full/federal-hotelHm.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item final high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/glomac-damansaraFH.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Glomac Damansara</a></h3>
+                                    <a class="preview" href="images/portfolio/full/glomac-damansaraFH.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                    <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/glomacTTDI H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Glomac TTDI</a></h3>
+                                    <a class="preview" href="images/portfolio/full/glomacTTDI H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/glomacTTDI2 H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Glomac TTDI</a></h3>
+                                    <a class="preview" href="images/portfolio/full/glomacTTDI2 H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/hotel3C5-putrajaya H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Hotel 3C5 Putrajaya</a></h3>
+                                    <a class="preview" href="images/portfolio/full/hotel3C5-putrajaya H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/hotel-3C5-putrajaya2 H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Hotel 3C5 Putrajaya</a></h3>
+                                    <a class="preview" href="images/portfolio/full/hotel-3C5-putrajaya2 H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high over col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/hotel-chamran H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Hotel Chamran</a></h3>
+                                    <a class="preview" href="images/portfolio/full/hotel-chamran H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high over col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/hotel-chamran2 H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Hotel Chamran</a></h3>
+                                    <a class="preview" href="images/portfolio/full/hotel-chamran2 H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high final col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/icon-city HF.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Icon City</a></h3>
+                                    <a class="preview" href="images/portfolio/full/icon-city HF.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/kl-trillion H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">KL Trillion</a></h3>
+                                    <a class="preview" href="images/portfolio/full/kl-trillion H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high main col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/menara-matrade H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Menara Matrade</a></h3>
+                                    <a class="preview" href="images/portfolio/full/menara-matrade Hm.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/menara-matrade2 H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Menara Matrade</a></h3>
+                                    <a class="preview" href="images/portfolio/full/menara-matrade2 H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high over col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/panoramio, Shiraz H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Panoramio, Shiraz</a></h3>
+                                    <a class="preview" href="images/portfolio/full/panoramio, Shiraz H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item final main col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/rekacipta-F.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Rekacipta</a></h3>
+                                    <a class="preview" href="images/portfolio/full/rekaciptaFm.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item final col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sky-vista-ampang F.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sky Vista Ampang</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sky-vista-ampang F.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item final col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sky-wista-ampang2 F.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sky Vista Ampang</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sky-wista-ampang2 F.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sunway-medini H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sunway Medini</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sunway-medini H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sunway-medini2 H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sunway Medini</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sunway-medini2 H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sunway-nexis H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sunway Nexis</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sunway-nexis H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sunway-nexis2 H (2).png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sunway Nexis</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sunway-nexis2 H (2).png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sunway-nexis2 H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sunway Nexis</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sunway-nexis2 H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sunway-velocity H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sunway Velocity</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sunway-velocity H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+
+                      <div class="portfolio-item high col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/sunway-velocity3 H.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Sunway Velocity</a></h3>
+                                    <a class="preview" href="images/portfolio/full/sunway-velocity3 H.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div><!--/.portfolio-item-->
+
+
+                      <div class="portfolio-item main col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/recent/vessel-tech M.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                     <h3><a href="#">Vessel Tech</a></h3>
+                                    <a class="preview" href="images/portfolio/full/vessel-tech M.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>          

@@ -63,7 +63,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" id="logo" alt="logo" ></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" id="logo" alt="logo" ></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -102,7 +102,7 @@
                                     <p>NO 9, Jalan Bendahara 38/7, <br>
                                    Bandar Mahkota Cheras, <br>
                                    43200 Chera, Selangor</p>
-                                    <p>Phone: +6 03-7772 8852 <br>
+                                    <p>Phone: <br> +60-16-326-6008 <br> +60-18-400-3266 <br> +60-3-7772-8852 <br>
                                     Email Address: megavoworkforce@gmail.com</p>
                                 </address>
 
@@ -110,15 +110,7 @@
                             </li>
 
 
-                            <li class="col-sm-6">
-                                <address>
-                                    <h5>Bankers</h5>
-                                    <p>Hong Leong Bank Berhad<br>
-                                    Bandar Baru Ampang <br>
-                                    68000 Ampang, Selangor</p>
-                                </address>
-
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>

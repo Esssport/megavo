@@ -64,7 +64,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" id="logo" alt="logo" ></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" id="logo" alt="logo" ></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -103,10 +103,13 @@
 							<img src="images/slider1.png" class="img-responsive" alt=""> 
 					   </div>
 					   <div class="item">
-							<img src="images/slider1.png" class="img-responsive" alt=""> 
+							<img src="images/slider2.png" class="img-responsive" alt=""> 
 					   </div> 
 					   <div class="item">
-							<img src="images/slider1.png" class="img-responsive" alt=""> 
+							<img src="images/slider3.png" class="img-responsive" alt=""> 
+					   </div> 
+					   <div class="item">
+							<img src="images/slider4.png" class="img-responsive" alt=""> 
 					   </div> 
 					</div>
 					
@@ -172,84 +175,7 @@
             </div><!--/.our-skill-->
 			
 
-			<!-- our-team -->
-			<div class="team">
-				<div class="center wow fadeInDown">
-					<h2>Team of Megavo Workforce</h2>
-					<p class="lead">Our high skilled managers <br> ensure the precision of the job done by our employees</p>
-				</div>
-
-				<div class="row clearfix">
-					<div class="col-md-4 col-sm-6">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/ashkan.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Erica Yap</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Manager</a></li>
-										<li class="btn"><a href="#">CEO</a></li>
-										<li class="btn"><a href="#">Founder</a></li>
-									</ul>
-									
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>Young but highly experienced in management, she is one of the key aspects of the company</p>
-						</div>
-					</div><!--/.col-lg-4 -->
-					
-					
-					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/ashkan.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Ashkan Sabet</h4>
-									<h5>Project Manager</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Manager</a></li>
-										<li class="btn"><a href="#">HR</a></li>
-										<li class="btn"><a href="#">Business Developer</a></li>
-									</ul>
-
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>He is very skilled in communication with the customers, everybody loves this guy!</p>
-						</div>
-					</div><!--/.col-lg-4 -->					
-				</div> <!--/.row -->
-				<div class="row team-bar">
-					<div class="first-one-arrow hidden-xs">
-						<hr>
-					</div>
-					<div class="first-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-up"></i>
-					</div>
-					<div class="second-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-down"></i>
-					</div>
-					<div class="third-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-up"></i>
-					</div>
-					<div class="fourth-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-down"></i>
-					</div>
-				</div> <!--skill_border-->       
+			  
 
 				
 			</div><!--section-->

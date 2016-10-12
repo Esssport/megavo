@@ -64,7 +64,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" id="logo" alt="logo" ></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" id="logo" alt="logo" ></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -149,34 +149,7 @@
                 </div>
             </div><!--/.get-started-->
 
-            <div class="clients-area center wow fadeInDown">
-                <h2>What our client says</h2>
-                <p class="lead">We ask our customers for feedback <br> here are some of the feedback they've given us so far.</p>
-            </div>
-
-            <div class="row">
-                <div class="col-md-4 wow fadeInDown">
-                    <div class="clients-comments text-center">
-                        <img src="images/client1.jpg" class="img-circle" alt="">
-                        <h3>They have done a marvelous job at cleaning our condominium <br> We have become their regular customer in no time!</h3>
-                        <h4><span>-Jessie Chan /</span>  Directing manager of Z-Residence</h4>
-                    </div>
-                </div>
-                <div class="col-md-4 wow fadeInDown">
-                    <div class="clients-comments text-center">
-                        <img src="images/client2.jpg" class="img-circle" alt="">
-                        <h3>We have not received such good prices before meeting these guys, they are truly the best in their work.</h3>
-                        <h4><span>-Mohsen Chavoshi /</span>  Owner of Hotel Chamran - Iran</h4>
-                    </div>
-                </div>
-                <div class="col-md-4 wow fadeInDown">
-                    <div class="clients-comments text-center">
-                        <img src="images/client3.jpg" class="img-circle" alt="">
-                        <h3>Highest quality in the market at the moment. I am glad to have found you Megavo Workforce!</h3>
-                        <h4><span>-Ben Lee /</span>  Owner of a house in Anjung Hijau Condo</h4>
-                    </div>
-                </div>
-           </div>
+          
 
         </div><!--/.container-->
     </section><!--/#feature-->

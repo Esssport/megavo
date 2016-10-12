@@ -63,7 +63,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" id="logo" alt="logo" ></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" id="logo" alt="logo" ></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
@@ -164,7 +164,7 @@
                 <div class="features">
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="200ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-suitcase"></i>
+                            <i class="fa fa-home"></i>
                             <h2>Janitorial</h2>
                             <h3>We offer commercial office cleaning and building maintenance.</h3>
                         </div>
@@ -172,7 +172,7 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="400ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-home"></i>
+                            <i class="fa fa-building"></i>
                             <h2>Construction cleaning</h2>
                             <h3>Building construction cleanup, window cleaning, floor cleaning and polishing.</h3>
                         </div>
@@ -204,9 +204,9 @@
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-building" aria-hidden="true"></i>
-                            <h2>Abseiling technology</h2>
-                            <h3>Abseiling provides an innovative new approach to high-level access work.</h3>
+                            <i class="fa fa-cog" aria-hidden="true"></i>
+                            <h2>Maintenance</h2>
+                            <h3>Our maintenance provides an innovative new approach to high-level access work.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                 </div><!--/.services-->
@@ -227,8 +227,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name?</a> </h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">Aloft Hotel</a> </h3>
                                 <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -240,8 +239,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name?</a></h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">Sunway Nexis</a></h3>
                                 <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -253,8 +251,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name?</a></h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">Seri Ampang Hilir</a></h3>
                                 <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -266,8 +263,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name? </a></h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">Evolve</a></h3>
                                 <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -279,8 +275,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name?e</a></h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">Evolve</a></h3>
                                 <a class="preview" href="images/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -292,8 +287,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item6.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name? </a></h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">Velda Residence</a></h3>
                                 <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -305,8 +299,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item7.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name? </a></h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">Velda Residence</a></h3>
                                 <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -318,8 +311,7 @@
                         <img class="img-responsive" src="images/portfolio/recent/item8.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">name?</a></h3>
-                                <p>Where the fuck is this?</p>
+                                <h3><a href="#">glomac TTDI</a></h3>
                                 <a class="preview" href="images/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -338,35 +330,35 @@
                         <p>Here is the satisfaction of the customers with our services:</p>
 
                         <div class="progress-wrap">
-                            <h3>Window Cleaning</h3>
+                            <h3>High-rise Cleaning</h3>
                             <div class="progress">
-                              <div class="progress-bar  color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
-                                <span class="bar-width">85%</span>
+                              <div class="progress-bar  color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+                                <span class="bar-width">95%</span>
                               </div>
 
                             </div>
                         </div>
 
                         <div class="progress-wrap">
-                            <h3>Sweeping/ Mopping/ Vacuuming</h3>
+                            <h3>Maintenance</h3>
                             <div class="progress">
-                              <div class="progress-bar color2" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
-                               <span class="bar-width">95%</span>
+                              <div class="progress-bar color2" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                               <span class="bar-width">90%</span>
                               </div>
                             </div>
                         </div>
 
                         <div class="progress-wrap">
-                            <h3>Trash Removal</h3>
+                            <h3>Construction Cleaning</h3>
                             <div class="progress">
-                              <div class="progress-bar color3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                              <div class="progress-bar color3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
                                 <span class="bar-width">80%</span>
                               </div>
                             </div>
                         </div>
 
                         <div class="progress-wrap">
-                            <h3>Wall Cleaning</h3>
+                            <h3>Janitorial</h3>
                             <div class="progress">
                               <div class="progress-bar color4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
                                 <span class="bar-width">90%</span>
